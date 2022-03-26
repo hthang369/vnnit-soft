@@ -1,0 +1,27 @@
+{
+    "name": "vnnit/soft",
+    "type": "library",
+    "description": "VnnSoft library core",
+    "authors": [
+        {
+            "name": "hthang369",
+            "email": "thangtran3690@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "symfony/var-dumper": "^5.4",
+        "symfony/translation": "^5.4"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ],
+        "psr-4": {
+            "Vnnit\\Soft\\": "src"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
