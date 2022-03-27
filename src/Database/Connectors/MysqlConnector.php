@@ -1,5 +1,4 @@
 <?php
-
 namespace Vnnit\Soft\Database\Connectors;
 
 use PDO;

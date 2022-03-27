@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace VnnSoft\Config;
+namespace Vnnit\Soft\Config;
 
 use InvalidArgumentException;
 
